@@ -7,3 +7,7 @@ undistracted, and unpolluted, by the surrounding details.
 Choosing good names takes time but saves more than it takes.
 
 [2]: Uncle Bob
+A professional programmer has to deal with deficiencies all the time. The game is called “balancing constraints”. Deadlines, budgets, and code quality are just a few competing constraints we have to consider. Elegant designs fade away in the face of reality. In the end you want to earn money with your software, so you have to ship it!
+
+The best developers I know, keep the balance between pragmatism and elegance. They know which parts matter and which don’t. Those who don’t will be replaced when there’s a need.
+[3]: Matthias Endler
