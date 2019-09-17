@@ -11,6 +11,7 @@ function, each class, each module exposes a single-minded attitude that remains 
 undistracted, and unpolluted, by the surrounding details.
 
 3. **Uncle Bob**
+
 Choosing good names takes time but saves more than it takes.
 
 
