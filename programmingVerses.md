@@ -14,6 +14,10 @@ undistracted, and unpolluted, by the surrounding details.
 
 Choosing good names takes time but saves more than it takes.
 
+4. **Ron Jeffries**
+
+Skill is the ability to apply knowledge. Skilled practice is what we want in our teams, and to get it, our people have to have all the necessary skills, not just the necessary knowledge.
+
 
 
 
