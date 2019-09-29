@@ -18,6 +18,11 @@ Choosing good names takes time but saves more than it takes.
 
 Skill is the ability to apply knowledge. Skilled practice is what we want in our teams, and to get it, our people have to have all the necessary skills, not just the necessary knowledge.
 
+5. **Ron Jeffries**
+
+Skill is what we have when we can apply the SOLID principles, when we live the values, when we can actually do refactoring.
+
+We have skill when we can turn our knowledge into effective action.
 
 
 
