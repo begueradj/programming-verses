@@ -24,8 +24,11 @@ undistracted, and unpolluted, by the surrounding details.
 
 Choosing good names takes time but saves more than it takes.
 
+6. **Kent Beck**
 
-
+Imagine a programming world in which all code was this clear and direct, where there were no complicated solutions, only
+apparently complicated problems begging for careful thought. TDD is a practice
+that can help you lead yourself to exactly that careful thought.
 
 
  
